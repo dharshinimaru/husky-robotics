@@ -42,6 +42,6 @@ python3 run_with_dashboard.py
 
 **Husky Robotics** - University of Washington  
 **Competition:** University Rover Challenge 2025  
-**Subsystem:** Science (Spectroscopy)
+
 
 
