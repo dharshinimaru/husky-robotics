@@ -6,13 +6,13 @@ Python-based spectroscopy processing pipeline for detecting biosignatures in Mar
 
 ## Features
 
-- ✅ 2D → 1D spectrum extraction
-- ✅ Wavelength calibration
-- ✅ Peak detection
-- ✅ Biosignature analysis (chlorophyll, carotenoids, organics)
-- ✅ Real-time visualization (matplotlib)
-- ✅ Web dashboard (Flask)
-- ✅ Timestamped data logging
+-  2D → 1D spectrum extraction
+-  Wavelength calibration
+-  Peak detection
+-  Biosignature analysis (chlorophyll, carotenoids, organics)
+-  Real-time visualization (matplotlib)
+-  Web dashboard (Flask)
+-  Timestamped data logging
 
 ## Quick Start
 
@@ -44,9 +44,4 @@ python3 run_with_dashboard.py
 **Competition:** University Rover Challenge 2025  
 **Subsystem:** Science (Spectroscopy)
 
-## Status
 
-- [x] Software pipeline complete
-- [x] Synthetic data testing
-- [ ] Hardware integration
-- [ ] Field testing
